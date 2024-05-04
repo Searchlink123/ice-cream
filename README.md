@@ -1,5 +1,5 @@
 # Responsive Ice-Cream Website 
-This is my ice cream website
+This is Responsive Ice-Cream Website.
 
 # Screenshot
 
