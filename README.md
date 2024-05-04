@@ -1,4 +1,4 @@
-# ice-cream
+# Responsive Ice-Cream Website 
 This is my ice cream website
 
 # Screenshot
